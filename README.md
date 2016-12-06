@@ -2,6 +2,14 @@
 
 SDK of the LINE Messaging API for Clojure
 
+## About the LINE Messaging API for Clojure.
+
+See the official API documentation for more information.
+
+English: https://devdocs.line.me/en/
+
+Japanese: https://devdocs.line.me/ja/
+
 ## Prerequisites
 
 You will need [Leiningen][] 2.0.0 or above installed.
